@@ -1,4 +1,4 @@
-FROM alpine:3.7.0
+FROM alpine:3.7
 
 LABEL maintainer "https://github.com/shivarammysore"
 
